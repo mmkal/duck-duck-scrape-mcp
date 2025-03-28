@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // @ts-check
 import { Server } from "@modelcontextprotocol/sdk/server/index.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
