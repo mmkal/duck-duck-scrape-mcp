@@ -5,6 +5,9 @@
   "packageManager": "pnpm@10.7.0",
   "type": "module",
   "main": "server.js",
+  "bin": {
+    "duck-duck-scrape-mcp": "./server.js"
+  },
   "engines": {
     "node": ">=23.8.0"
   },
