@@ -1,0 +1,24 @@
+{
+  "name": "duck-duck-scrape-mcp",
+  "version": "1.0.0",
+  "description": "",
+  "packageManager": "pnpm@10.7.0",
+  "type": "module",
+  "main": "server.js",
+  "engines": {
+    "node": ">=23.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.8.0",
+    "duck-duck-scrape": "^2.2.7"
+  },
+  "devDependencies": {
+    "@types/node": "22.13.14"
+  }
+}
